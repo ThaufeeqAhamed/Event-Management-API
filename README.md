@@ -164,7 +164,7 @@ POST /users
   "email": "john@example.com"
 }
 
-**Response**
+**Response:-**
 
 
 
@@ -189,7 +189,7 @@ POST /events/1/register
   
 }
 
-**Response**
+**Response:-**
 
 
 
@@ -207,7 +207,7 @@ GET /events/1/stats
 
 
 
-**Response**
+**Response:-**
 
 
 {
